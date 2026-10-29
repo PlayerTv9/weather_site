@@ -9,7 +9,9 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@js-temporal/polyfill": "^0.5.1",
     "next": "16.4.2",
+    "openmeteo": "^1.2.3",
     "react": "19.3.0",
     "react-dom": "19.3.0"
   },
